@@ -1,6 +1,6 @@
 # Trustworthy Transfer Learning
 
-The KDD 2023 tutorial titled "Trustworthy Transfer Learning: Transferability and Trustworthiness" can be found on the [[official site]](https://sites.google.com/view/kdd23-trustworthy-transfer).
+The KDD 2023 tutorial titled "Trustworthy Transfer Learning: Transferability and Trustworthiness" can be found on the [official site](https://sites.google.com/view/kdd23-trustworthy-transfer).
 
 ## ABSTRACT
 
@@ -8,13 +8,13 @@ Deep transfer learning investigates the transfer of knowledge or information fro
 
 ## OUTLINE
 
-- Introduction
+* Introduction
 
-- ** Part I: Knowledge Transferability
+* Part I: Knowledge Transferability
 
-Part I-1: IID Transferability
+  * Part I-1: IID Transferability
 
-Domain Discrepancy (Data-level)
+    * Domain Discrepancy (Data-level)
 
 Task Diversity (Task-level)
 
