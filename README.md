@@ -12,9 +12,9 @@ Deep transfer learning investigates the transfer of knowledge or information fro
 
 * Part I: Knowledge Transferability
 
-  * Part I-1: IID Transferability
+  + Part I-1: IID Transferability
 
-    * Domain Discrepancy (Data-level)
+    - Domain Discrepancy (Data-level)
 
 Task Diversity (Task-level)
 
