@@ -16,48 +16,48 @@ Deep transfer learning investigates the transfer of knowledge or information fro
 
     - Domain Discrepancy (Data-level)
 
-Task Diversity (Task-level)
+    - Task Diversity (Task-level)
 
-Transferability Measures (Model-level)
+    - Transferability Measures (Model-level)
 
-Part I-2: Non-IID Transferability
+  + Part I-2: Non-IID Transferability
 
-Graph Transferability
+    - Graph Transferability
 
-Text Transferability
+    - Text Transferability
 
-Time-series Transferability
+    - Time-series Transferability
 
-Part II: Knowledge Trustworthiness
+* Part II: Knowledge Trustworthiness
 
-Part II-1: Adversarial Robustness
+  + Part II-1: Adversarial Robustness
 
-Attack
+    - Attack
 
-Defense
+    - Defense
 
-Part II-2: Privacy
+  + Part II-2: Privacy
 
-Source-free Hypothesis Transfer
+    - Source-free Hypothesis Transfer
 
-Federated Learning
+    - Federated Learning
 
-Part II-3: Fairness
+  + Part II-3: Fairness
 
-Individual Fairness
+    - Individual Fairness
 
-Group Fairness
+    - Group Fairness
 
-Part II-4: Transparency and Explainability
+  + Part II-4: Transparency and Explainability
 
-Feature-level Explainability
+    - Feature-level Explainability
 
-Prediction-level Uncertainty
+    - Prediction-level Uncertainty
 
-Part III: Open Questions and Future Trends
+* Part III: Open Questions and Future Trends
 
-Multi-dimensional Distribution Shifts
+  + Multi-dimensional Distribution Shifts
 
-Universal Trustworthiness
+  + Universal Trustworthiness
 
-Tradeoff between Transferability and Trustworthiness
+  + Tradeoff between Transferability and Trustworthiness
