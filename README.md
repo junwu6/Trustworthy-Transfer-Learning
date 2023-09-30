@@ -144,6 +144,7 @@ Deep transfer learning investigates the transfer of knowledge or information fro
 - **Non-IID transfer learning on graphs (AAAI'23).** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26231) [[Code]](https://github.com/jwu4sml/GRADE)
 - **Graph domain adaptation via theory-grounded spectral regularization (ICLR'23).** [[Paper]](https://openreview.net/forum?id=OysfLgrk8mk)
 - **Structural re-weighting improves graph domain adaptation (ICML'23).** [[Paper]](https://proceedings.mlr.press/v202/liu23u.html)
+- **Graph-Structured Gaussian Processes for Transferable Graph Learning (NeurIPS'23).**
 
 #### 2.2. Text Transferability
 
