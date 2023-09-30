@@ -111,12 +111,12 @@ Deep transfer learning investigates the transfer of knowledge or information fro
 - **Unsupervised domain adaptation by backpropagation (ICML'15).** [[Paper]](http://proceedings.mlr.press/v37/ganin15.html)
 - **Return of frustratingly easy domain adaptation (AAAI'16).** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/10306)
 - **Wasserstein distance guided representation learning for domain adaptation (AAAI'18).** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/11784)
-- **Bridging theory and algorithm for domain adaptation (ICML'19).** [[Paper]](http://proceedings.mlr.press/v97/zhang19i.html?ref=https://codemonkey) [[Code]](https://github.com/thuml/MDD)
+- **Bridging theory and algorithm for domain adaptation (ICML'19).** [[Paper]](http://proceedings.mlr.press/v97/zhang19i.html?ref=https://codemonkey)
 - **On learning invariant representations for domain adaptation (ICML'19).** [[Paper]](https://proceedings.mlr.press/v97/zhao19a.html)
 - **Adaptation based on generalized discrepancy (JMLR'19).** [[Paper]](https://www.jmlr.org/papers/volume20/15-192/15-192.pdf?ref=https://githubhelp.com)
-- **$f$-domain-adversarial learning: Theory and algorithms (ICML'21).** [[Paper]](http://proceedings.mlr.press/v139/acuna21a/acuna21a.pdf) [[Code]](https://github.com/nv-tlabs/fDAL)
+- **$f$-domain-adversarial learning: Theory and algorithms (ICML'21).** [[Paper]](http://proceedings.mlr.press/v139/acuna21a/acuna21a.pdf)
 - **Distribution-informed neural networks for domain adaptation regression (NeurIPS'22).** [[Paper]](https://openreview.net/pdf?id=8hoDLRLtl9h)
-- **KL guided domain adaptation (ICLR'22).** [[Paper]](https://arxiv.org/pdf/2106.07780.pdf) [[Code]](https://github.com/atuannguyen/KL)
+- **KL guided domain adaptation (ICLR'22).** [[Paper]](https://arxiv.org/pdf/2106.07780.pdf)
 
 #### 1.2. Task Diversity
 
