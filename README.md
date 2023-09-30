@@ -195,8 +195,9 @@ Deep transfer learning investigates the transfer of knowledge or information fro
 
 #### 4.2. Source-Free Transferability
 - **Stability and hypothesis transfer learning (ICML'13).** [[Paper]](https://proceedings.mlr.press/v28/kuzborskij13.html)
-- - **Hypothesis transfer learning via transformation functions (NeurIPS'17).** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2017/file/352fe25daf686bdb4edca223c921acea-Paper.pdf)
+- **Hypothesis transfer learning via transformation functions (NeurIPS'17).** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2017/file/352fe25daf686bdb4edca223c921acea-Paper.pdf)
 - **Do we really need to access the source data? source hypothesis transfer for unsupervised domain adaptation (ICML'20).** [[Paper]](https://proceedings.mlr.press/v119/liang20a.html) [[Code]](https://github.com/tim-learn/SHOT)
+- **Tent: Fully test-time adaptation by entropy minimization (ICLR'21).** [[Paper]](https://openreview.net/forum?id=uXl3bZLkr3c) [[Code]](https://github.com/DequanWang/tent)
 - **On balancing bias and variance in unsupervised multi-source-free domain adaptation (ICML'23).** [[Paper]](https://proceedings.mlr.press/v202/shen23b.html)
 
 
